@@ -1,25 +1,25 @@
-# Hi there! I'm Qamer Raza ☁️👋
+# Hi, I'm Qamer Raza 👋
 
-Welcome to my GitHub profile! I am a passionate IT student currently upgrading my skills to become a professional **AWS Cloud Engineer**. 
-
----
-
-### 🛠️ What I am Learning Right Now (Step 1)
-- 🐧 **Linux Command Line:** Learning basic commands, file system navigation, and user permissions.
-- 🌐 **Computer Networking:** Understanding IP addresses, Subnets, Ports, and Firewalls.
-- 📜 **Automation:** Getting started with basic Bash Scripting.
+Welcome to my profile. I'm an IT student focused on learning practical skills to build a career in Cloud Infrastructure and DevOps. Right now, I am pushing myself daily to get strong with the fundamentals.
 
 ---
 
-### 🎯 My Goals for 2026
-- [ ] Master AWS Core Services (EC2, S3, VPC, IAM)
-- [ ] Build 5 Hands-on Cloud Projects
-- [ ] Clear the **AWS Certified Cloud Practitioner (CLF-C02)** Exam
+### 🛠️ What I am practical learning right now:
+- **Linux:** Working with command line, core navigation, and file security.
+- **Networking:** Getting my head around IPs, subnet routing, ports, and simple traffic rules.
+- **Scripting:** Trying out basic Bash scripts to see how basic automation works on servers.
 
 ---
 
-### 📂 Future Cloud Projects (Loading...)
-* 🚀 **Static Website Deployment** (Coming Soon)
-* 🔒 **Secure VPC Architecture Setup** (Coming Soon)
+### 🎯 Looking forward to 2026:
+- [ ] Get comfortable with AWS core tools like EC2, S3, and VPC networks.
+- [ ] Actually deploy a few basic web apps on the cloud myself.
+- [ ] Study for and pass the AWS Certified Cloud Practitioner test.
 
-_Recruiters and international clients, feel free to connect with me! Consistent learning in progress._
+---
+
+### 📂 Simple things I'm building next:
+* 🚀 Setting up a basic web page using S3 storage buckets.
+* 🔒 Figuring out how to configure a secure network environment from scratch.
+
+_Feel free to look through my repositories as I add my daily learning files. Thanks for stopping by!_
