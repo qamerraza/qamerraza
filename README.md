@@ -1,4 +1,4 @@
-# Hi, I'm Qamer Raza 👋
+# Hi, I'm Qamer Shahid 👋
 
 I study at an IT institution and prefer to learn new practical things related to my future profession. Right now, I'm training hard to achieve fundamental knowledge in such IT fields as Cloud Infrastructure and DevOps. Currently, I spend a lot of time learning day by day to get competent in the basics of the specialization.
 
